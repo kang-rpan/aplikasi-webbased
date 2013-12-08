@@ -1,4 +1,4 @@
-php-procedural
-==============
+Webbased PHP Prosedural
+=======================
 
-simple explanation PHP Procedural
+Membuat aplikasi berbasis webbased dengan menggunakan teknik prosedural [basic], untuk databasenya sendiri menggunakan MySql, kebutuhan layout disini saya menggunakan bootstrap http://getbootstrap.com/
