@@ -6,5 +6,8 @@
     <div>
         PHP OOP Mudah Sekali
     </div>
+    <div>
+        Menggunakan Database MySql
+    </div>
 </body>
 </html>
