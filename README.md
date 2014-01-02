@@ -1,4 +1,7 @@
-OOP PHP - MySql
-===============
+OOP PHP - Postgresql
+====================
 
-Membuat aplikasi berbasis webbased dengan menggunakan teknik Object Oriented Programming [OOP], database menggunakan MySql, kebutuhan layout disini menggunakan bootstrap http://getbootstrap.com/
+Membuat aplikasi berbasis web dengan menggunakan teknik Object Oriented Programming [OOP], adapun spesifikasi aplikasi sebagai berikut :
+
+- Database Postgresql
+- PHP Versi 5.3.1
