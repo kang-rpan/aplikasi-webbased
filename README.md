@@ -5,3 +5,4 @@ Membuat aplikasi berbasis web dengan menggunakan teknik Object Oriented Programm
 
 - Database Postgresql
 - PHP Versi 5.3.1
+- Twitter Bootstrap
